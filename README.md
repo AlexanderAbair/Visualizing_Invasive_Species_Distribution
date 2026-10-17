@@ -1,0 +1,2 @@
+# Visualizing-the-Spread-of-Chaiturus-marrubiastrum-in-North-America-2004-2026-
+Animated visualization of Chaiturus marrubiastrum observations across eastern North America from 2004–2026. Using iNaturalist data, this Python project maps the cumulative geographic distribution of recorded occurrences over time, illustrating patterns of documented expansion and the potential of community-generated biodiversity data.
