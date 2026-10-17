@@ -1,4 +1,4 @@
-***Chaiturus marrubiastrum* - Spread Across North America**
+****Chaiturus marrubiastrum* - Spread Across North America***
 
 An animated visualization of the geographic accumulation of *Chaiturus
 marrubiastrum* observations in North America, using georeferenced
@@ -18,7 +18,7 @@ Instagram Reels, TikTok, and YouTube Shorts.
 
 **Visualization features**
 
-- Temporal coverage: January 2004 - September 2026
+- **Temporal coverage**: January 2004 - September 2026
 
 - **Data source:** iNaturalist observations API
 
