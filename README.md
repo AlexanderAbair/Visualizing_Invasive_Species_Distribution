@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33585845/README.md)
 ***Chaiturus marrubiastrum* - Spread Across North America**
 
 An animated visualization of the geographic accumulation of *Chaiturus
